@@ -1,0 +1,16 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0103,
+    C0115,
+    R0903,
+    W0611,
+    C0303,
+    C0325,
+    C0116,
+    C0209,
+    W0621,
+    R1710, #idk bout that one
+    W1514, #smth bout file statement idk
+    W0603, #global var triggered
+    C0413, # mimimimimi stfu i do what i want
